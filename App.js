@@ -49,11 +49,11 @@ const styles = StyleSheet.create({
 
   },
   containerFoto: {
-    marginBottom: 120,
+    marginBottom: 100,
   },
 
   logo: {
-    marginTop: 50,
+    marginTop: 10,
   },
 
   inputs: {
